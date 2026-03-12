@@ -1,0 +1,1 @@
+console.log("Projeto Anhanguera carregado com sucesso!");
